@@ -1,0 +1,109 @@
+body {
+	margin: 0;
+	margin-left: 0; 
+}
+
+header{
+	color: white;
+	margin: 0;
+}
+
+header h1 {
+	margin: 0;
+	text-align: center;
+	background-image: url("header.gif");
+	height:100px;
+	padding: 100px 0px 10px 15px;
+}
+
+header a {
+	color: white;
+    text-decoration: none;
+	margin:0 auto;
+}
+
+#title{
+	font-size:70px;
+}
+
+#Me {
+	color:black;
+}
+
+div p {
+     background-color:lightblue;
+     width:200px;
+     padding:25px;
+     border:10px solid black;
+     float: left;
+     margin-left: 10px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: pink;
+}
+
+nav li {
+    float: left;
+    margin: auto;
+    padding: 0px 0px 0px 250px;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+    background-color: gray;
+}
+
+nav .active {
+    background-color:lightblue;
+}
+
+#selfies {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 10px 10px 10px;
+}
+
+li {
+	font-size:18px;
+	font-style:italic;
+}
+
+#selfies1 {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+p {
+text-align: center;
+}
+
+ul {
+margin-left: 50px;
+}
+
+#Hobbies {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 10px 10px 10px;
+}
+
+#Hobbies2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 10px 10px 10px;
+}
